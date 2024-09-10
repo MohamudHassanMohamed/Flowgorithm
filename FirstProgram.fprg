@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="DELL"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-10 10:15:22 PM"/>
+        <attribute name="created" value="REVMTDtERVNLVE9QLTVLTjREMTI7MjAyNC0wOS0xMDsxMDoxMzowNSBQTTsyNTY5"/>
+        <attribute name="edited" value="REVMTDtERVNLVE9QLTVLTjREMTI7MjAyNC0wOS0xMDsxMDoxNToyMiBQTTsxOzI2Nzg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;I am happy&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
